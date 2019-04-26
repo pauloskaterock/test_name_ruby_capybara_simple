@@ -1,0 +1,1 @@
+# test_name_ruby_capybara_simple
